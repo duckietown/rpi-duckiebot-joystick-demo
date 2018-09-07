@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -e -x
 
 source /home/software/docker/env.sh
 
